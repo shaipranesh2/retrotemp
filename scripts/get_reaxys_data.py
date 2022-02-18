@@ -1,7 +1,7 @@
 import os
 from pymongo import MongoClient
 import rdkit.Chem as Chem
-import Pickle as pickle 
+import pickle
 import sys
 
 '''
